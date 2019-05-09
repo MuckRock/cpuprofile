@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="cpuprofile",
-    version="1.0.0",
+    version="1.0.1",
     author="Dylan Freedman",
     author_email="freedmand@gmail.com",
     description="A simple Python package to profile CPU speed by computing the Fibonacci sequence",

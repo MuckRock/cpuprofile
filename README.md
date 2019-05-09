@@ -35,4 +35,4 @@ the CPU is inspired by:
 
 - Booth, J. (2015).
   [Not so incognito: Exploiting resource-based side channels in javascript engines](http://jombooth.com/static/thesis.pdf)
-  (Doctoral dissertation, Harvard University).
+  (Undergraduate thesis, Harvard University).
